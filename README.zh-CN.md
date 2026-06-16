@@ -50,6 +50,8 @@
 
 📝 [spring-xhs-longtext](https://github.com/xspring1982/spring-xhs-longtext) - 把长文素材整理成结构清晰的小红书长文。
 
+💬 [spring-wechat-digest](https://github.com/xspring1982/spring-wechat-digest) - 汇总每日微信群讨论，把有价值的信息转成下一步任务。
+
 📖 [spring-youtube-to-book](https://github.com/xspring1982/spring-youtube-to-book) - 把 YouTube 字幕转成可阅读章节、摘要和学习笔记。
 
 🧩 [spring-write-novel](https://github.com/xspring1982/spring-write-novel) - 支持长篇小说创作中的故事结构、人物弧光、场景规划和修订流程。
