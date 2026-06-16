@@ -4,13 +4,23 @@
 
 我在做一组面向独立开发者和内容创作者的 agent skills、内容自动化工具和增长工作流。大部分开源项目都会使用 `spring-` 前缀，逐步形成一个有辨识度的个人工具品牌。
 
-[X](https://x.com/wutantanAI) · [GitHub](https://github.com/xspring1982)
+### 社媒 / Social media
 
-[AppEasy](https://appeasy.studio) · [MapMC](https://mapmc.app) · [AI Omoggle](https://aiomoggle.com) · [Mixtape Game](https://mixtapegame.org)
+[![X](https://img.shields.io/badge/X-@wutantanAI-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wutantanAI)
+[![GitHub](https://img.shields.io/badge/GitHub-xspring1982-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xspring1982)
+[![YouTube](https://img.shields.io/badge/YouTube-@SpringXX--p8j-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SpringXX-p8j)
+[![小红书](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-SpringWang-ff2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/67ce1ed8000000000601069f)
+
+### 网站入口 / Website links
+
+[![AppEasy](https://img.shields.io/badge/AppEasy-appeasy.studio-2f80ed?style=for-the-badge)](https://appeasy.studio)
+[![MapMC](https://img.shields.io/badge/MapMC-mapmc.app-22863a?style=for-the-badge)](https://mapmc.app)
+[![AI Omoggle](https://img.shields.io/badge/AI%20Omoggle-aiomoggle.com-8a63d2?style=for-the-badge)](https://aiomoggle.com)
+[![Mixtape Game](https://img.shields.io/badge/Mixtape%20Game-mixtapegame.org-f66a0a?style=for-the-badge)](https://mixtapegame.org)
 
 ---
 
-## Free services
+## 🟢 Free services
 
 可以直接使用的免费服务和订阅入口。
 
@@ -27,13 +37,13 @@
   </tr>
 </table>
 
-## Agent skills
+## 🧩 Agent skills
 
 围绕决策、内容生产和增长工作流沉淀的可复用 skills。
 
 我把它们分成三类：思考与知识工作、内容与媒体生产、增长与网页工具。
 
-### Thinking & knowledge
+### 1. Thinking & knowledge
 
 <table>
   <tr>
@@ -58,7 +68,7 @@
   </tr>
 </table>
 
-### Content & media
+### 2. Content & media
 
 <table>
   <tr>
@@ -103,7 +113,7 @@
   </tr>
 </table>
 
-### Growth & web
+### 3. Growth & web
 
 <table>
   <tr>
@@ -128,7 +138,7 @@
   </tr>
 </table>
 
-## Websites
+## 🌐 Websites
 
 我正在公开建设的产品和实验。
 
