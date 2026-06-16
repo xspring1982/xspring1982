@@ -1,8 +1,8 @@
 # Hi, I'm Spring Wang
 
-English · [中文](./README.zh-CN.md)
+[English](./README.md) · 中文
 
-I build practical agent skills, content automation tools, and growth workflows for solo builders. My projects are mostly named with the `spring-` prefix so they can grow into a connected toolkit over time.
+我在做一组面向独立开发者和内容创作者的 agent skills、内容自动化工具和增长工作流。大部分开源项目都会使用 `spring-` 前缀，逐步形成一个有辨识度的个人工具品牌。
 
 [X](https://x.com/wutantanAI) · [GitHub](https://github.com/xspring1982)
 
@@ -12,26 +12,26 @@ I build practical agent skills, content automation tools, and growth workflows f
 
 ## Free services
 
-Useful tools and updates you can try directly.
+可以直接使用的免费服务和订阅入口。
 
 <table>
   <tr>
     <td width="50%">
       <h3>📰 <a href="https://github.com/xspring1982/spring-newsletter">spring-newsletter</a></h3>
-      <p>Get a free daily briefing by email, curated from useful AI, product, and creator signals.</p>
+      <p>通过邮件免费获取每日日报，聚合有价值的 AI、产品和创作者信号。</p>
     </td>
     <td width="50%">
       <h3>🟢 <a href="https://github.com/xspring1982/spring-wechat-formatter">spring-wechat-formatter</a></h3>
-      <p>Paste an article in the browser and turn it into a clean WeChat-ready layout.</p>
+      <p>在浏览器中粘贴文章，自动排成适合公众号发布的清爽版式。</p>
     </td>
   </tr>
 </table>
 
 ## Agent skills
 
-Reusable skills for decision-making, content production, and web growth.
+围绕决策、内容生产和增长工作流沉淀的可复用 skills。
 
-I group them into three buckets: thinking and knowledge work, content and media production, and growth-oriented web tools.
+我把它们分成三类：思考与知识工作、内容与媒体生产、增长与网页工具。
 
 ### Thinking & knowledge
 
@@ -39,21 +39,21 @@ I group them into three buckets: thinking and knowledge work, content and media 
   <tr>
     <td width="50%">
       <h3>🧭 <a href="https://github.com/xspring1982/project-decision-skill">project-decision-skill</a></h3>
-      <p>Make project choices easier by comparing goals, constraints, evidence, and next actions.</p>
+      <p>围绕目标、约束、证据和下一步行动，辅助做项目取舍。</p>
     </td>
     <td width="50%">
       <h3>🟩 <a href="https://github.com/xspring1982/spring-greenbook">spring-greenbook</a></h3>
-      <p>Build a reusable playbook for agent-assisted product planning, execution, and review.</p>
+      <p>沉淀 agent 辅助产品规划、执行和复盘的实用手册。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📚 <a href="https://github.com/xspring1982/spring-book-to-skill">spring-book-to-skill</a></h3>
-      <p>Convert useful ideas from books into practical skills, checklists, and repeatable workflows.</p>
+      <p>把书里的有效方法转成技能、清单和可重复执行的工作流。</p>
     </td>
     <td width="50%">
       <h3>🧠 <a href="https://github.com/xspring1982/spring-mind-distill">spring-mind-distill</a></h3>
-      <p>Distill a person's public ideas into structured mental models, principles, and reusable prompts.</p>
+      <p>把一个人的公开思想蒸馏成结构化模型、原则和可复用提示词。</p>
     </td>
   </tr>
 </table>
@@ -64,41 +64,41 @@ I group them into three buckets: thinking and knowledge work, content and media 
   <tr>
     <td width="50%">
       <h3>✍️ <a href="https://github.com/xspring1982/spring-gongzhonghao">spring-gongzhonghao</a></h3>
-      <p>Create WeChat public-account articles from topic selection through final publishing handoff.</p>
+      <p>从选题到最终发布交接，辅助完成公众号文章生产。</p>
     </td>
     <td width="50%">
       <h3>🖼️ <a href="https://github.com/xspring1982/spring-gpt-image">spring-gpt-image</a></h3>
-      <p>Produce image briefs, visual directions, and image-generation handoffs for content projects.</p>
+      <p>为内容项目生成配图方向、视觉简报和图片生成交接稿。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🌐 <a href="https://github.com/xspring1982/spring-xhs-x-reddit">spring-xhs-x-reddit</a></h3>
-      <p>Adapt one idea across Xiaohongshu, X, and Reddit while keeping each platform's format natural.</p>
+      <p>把同一个想法改写成适合小红书、X 和 Reddit 的平台化内容。</p>
     </td>
     <td width="50%">
       <h3>📇 <a href="https://github.com/xspring1982/spring-xhs-card">spring-xhs-card</a></h3>
-      <p>Turn articles or scripts into Xiaohongshu-style card sequences.</p>
+      <p>把文章或脚本转成小红书图文卡片组。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📝 <a href="https://github.com/xspring1982/spring-xhs-longtext">spring-xhs-longtext</a></h3>
-      <p>Turn long-form source material into structured Xiaohongshu long-text posts.</p>
+      <p>把长文素材整理成结构清晰的小红书长文。</p>
     </td>
     <td width="50%">
       <h3>📖 <a href="https://github.com/xspring1982/spring-youtube-to-book">spring-youtube-to-book</a></h3>
-      <p>Turn YouTube transcripts into readable chapters, summaries, and study notes.</p>
+      <p>把 YouTube 字幕转成可阅读章节、摘要和学习笔记。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🧩 <a href="https://github.com/xspring1982/spring-write-novel">spring-write-novel</a></h3>
-      <p>Support long-form fiction writing with story structure, character arcs, scene planning, and revision loops.</p>
+      <p>支持长篇小说创作中的故事结构、人物弧光、场景规划和修订流程。</p>
     </td>
     <td width="50%">
       <h3>🎬 <a href="https://github.com/xspring1982/videocut-skills">videocut-skills</a></h3>
-      <p>Package talking-head video editing workflows into reusable agent skills.</p>
+      <p>把口播视频剪辑流程封装成可复用的 agent skills。</p>
     </td>
   </tr>
 </table>
@@ -109,48 +109,48 @@ I group them into three buckets: thinking and knowledge work, content and media 
   <tr>
     <td width="50%">
       <h3>🔎 <a href="https://github.com/xspring1982/spring-codex-seo">spring-codex-seo</a></h3>
-      <p>Audit websites with structured evidence, technical checks, content findings, and execution plans.</p>
+      <p>用结构化证据、技术检查、内容诊断和执行计划审计网站。</p>
     </td>
     <td width="50%">
       <h3>🎞️ <a href="https://github.com/xspring1982/spring-html-presentation">spring-html-presentation</a></h3>
-      <p>Create browser-native presentations as an alternative to slide decks.</p>
+      <p>制作浏览器原生演示文稿，作为传统 PPT 的替代方案。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🧱 <a href="https://github.com/xspring1982/ai-website-cloner-template">spring-website-cloner</a></h3>
-      <p>Clone website structure, layout, and assets into editable frontend templates.</p>
+      <p>把网站结构、布局和素材转成可编辑的前端模板。</p>
     </td>
     <td width="50%">
       <h3>🟢 <a href="https://github.com/xspring1982/spring-wechat-formatter">spring-wechat-formatter</a></h3>
-      <p>Format pasted articles into clean WeChat-ready layouts in the browser.</p>
+      <p>在浏览器中把粘贴进来的文章自动排成适合公众号发布的版式。</p>
     </td>
   </tr>
 </table>
 
 ## Websites
 
-Products and experiments I am building in public.
+我正在公开建设的产品和实验。
 
 <table>
   <tr>
     <td width="50%">
       <h3><a href="https://appeasy.studio">AppEasy</a></h3>
-      <p>Build and launch small apps with AI-assisted product, design, and shipping workflows.</p>
+      <p>用 AI 辅助完成小应用的产品设计、页面搭建和上线流程。</p>
     </td>
     <td width="50%">
       <h3><a href="https://mapmc.app">MapMC</a></h3>
-      <p>Create Minecraft worlds from real maps, places, and geographic data.</p>
+      <p>基于真实地图、地点和地理数据生成 Minecraft 世界。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://aiomoggle.com">AI Omoggle</a></h3>
-      <p>Explore AI-powered chat, matching, and lightweight social experiments.</p>
+      <p>探索 AI 驱动的聊天、匹配和轻量社交实验。</p>
     </td>
     <td width="50%">
       <h3><a href="https://mixtapegame.org">Mixtape Game</a></h3>
-      <p>A music-inspired web game for playful discovery and interactive entertainment.</p>
+      <p>一个音乐灵感的网页游戏，面向轻松探索和互动娱乐。</p>
     </td>
   </tr>
 </table>
