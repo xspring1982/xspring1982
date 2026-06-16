@@ -77,3 +77,11 @@
 💬 [AI Omoggle](https://aiomoggle.com) - 探索 AI 驱动的聊天、匹配和轻量社交实验。
 
 🎧 [Mixtape Game](https://mixtapegame.org) - 一个音乐灵感的网页游戏，面向轻松探索和互动娱乐。
+
+## 📱 Mini programs
+
+微信小程序入口。复制下面的小程序口令到微信里打开。
+
+🍱 AI随食拍 - `#小程序://AI随食拍/pUSoOausvLtu43o`
+
+🪨 洛克噩梦 - `#小程序://洛克噩梦/XadMN0RSLqLCdYf`
