@@ -50,6 +50,8 @@ I group them into three buckets: thinking and knowledge work, content and media 
 
 📝 [spring-xhs-longtext](https://github.com/xspring1982/spring-xhs-longtext) - Turn long-form source material into structured Xiaohongshu long-text posts.
 
+💬 [spring-wechat-digest](https://github.com/xspring1982/spring-wechat-digest) - Summarize daily WeChat group discussions and turn useful signals into next-step tasks.
+
 📖 [spring-youtube-to-book](https://github.com/xspring1982/spring-youtube-to-book) - Turn YouTube transcripts into readable chapters, summaries, and study notes.
 
 🧩 [spring-write-novel](https://github.com/xspring1982/spring-write-novel) - Support long-form fiction writing with story structure, character arcs, scene planning, and revision loops.
