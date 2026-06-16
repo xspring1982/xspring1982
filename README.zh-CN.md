@@ -56,7 +56,7 @@
 
 🧩 [spring-write-novel](https://github.com/xspring1982/spring-write-novel) - 支持长篇小说创作中的故事结构、人物弧光、场景规划和修订流程。
 
-🎬 [videocut-skills](https://github.com/xspring1982/videocut-skills) - 把口播视频剪辑流程封装成可复用的 agent skills。
+🎬 [spring-videocut-skills](https://github.com/xspring1982/spring-videocut-skills) - 把口播视频剪辑流程封装成可复用的 agent skills。
 
 ### 3. Growth & web
 
