@@ -77,3 +77,11 @@ Products and experiments I am building in public.
 💬 [AI Omoggle](https://aiomoggle.com) - Explore AI-powered chat, matching, and lightweight social experiments.
 
 🎧 [Mixtape Game](https://mixtapegame.org) - A music-inspired web game for playful discovery and interactive entertainment.
+
+## 📱 Mini programs
+
+WeChat mini-program entries. Copy the mini-program path into WeChat to open them.
+
+🍱 AI随食拍 - `#小程序://AI随食拍/pUSoOausvLtu43o`
+
+🪨 洛克噩梦 - `#小程序://洛克噩梦/XadMN0RSLqLCdYf`
