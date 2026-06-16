@@ -56,7 +56,7 @@ I group them into three buckets: thinking and knowledge work, content and media 
 
 🧩 [spring-write-novel](https://github.com/xspring1982/spring-write-novel) - Support long-form fiction writing with story structure, character arcs, scene planning, and revision loops.
 
-🎬 [videocut-skills](https://github.com/xspring1982/videocut-skills) - Package talking-head video editing workflows into reusable agent skills.
+🎬 [spring-videocut-skills](https://github.com/xspring1982/spring-videocut-skills) - Package talking-head video editing workflows into reusable agent skills.
 
 ### 3. Growth & web
 
