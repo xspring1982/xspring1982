@@ -4,13 +4,23 @@ English · [中文](./README.zh-CN.md)
 
 I build practical agent skills, content automation tools, and growth workflows for solo builders. My projects are mostly named with the `spring-` prefix so they can grow into a connected toolkit over time.
 
-[X](https://x.com/wutantanAI) · [GitHub](https://github.com/xspring1982)
+### Social media
 
-[AppEasy](https://appeasy.studio) · [MapMC](https://mapmc.app) · [AI Omoggle](https://aiomoggle.com) · [Mixtape Game](https://mixtapegame.org)
+[![X](https://img.shields.io/badge/X-@wutantanAI-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wutantanAI)
+[![GitHub](https://img.shields.io/badge/GitHub-xspring1982-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xspring1982)
+[![YouTube](https://img.shields.io/badge/YouTube-@SpringXX--p8j-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SpringXX-p8j)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-SpringWang-ff2442?style=for-the-badge)](https://www.xiaohongshu.com/user/profile/67ce1ed8000000000601069f)
+
+### Website links
+
+[![AppEasy](https://img.shields.io/badge/AppEasy-appeasy.studio-2f80ed?style=for-the-badge)](https://appeasy.studio)
+[![MapMC](https://img.shields.io/badge/MapMC-mapmc.app-22863a?style=for-the-badge)](https://mapmc.app)
+[![AI Omoggle](https://img.shields.io/badge/AI%20Omoggle-aiomoggle.com-8a63d2?style=for-the-badge)](https://aiomoggle.com)
+[![Mixtape Game](https://img.shields.io/badge/Mixtape%20Game-mixtapegame.org-f66a0a?style=for-the-badge)](https://mixtapegame.org)
 
 ---
 
-## Free services
+## 🟢 Free services
 
 Useful tools and updates you can try directly.
 
@@ -27,13 +37,13 @@ Useful tools and updates you can try directly.
   </tr>
 </table>
 
-## Agent skills
+## 🧩 Agent skills
 
 Reusable skills for decision-making, content production, and web growth.
 
 I group them into three buckets: thinking and knowledge work, content and media production, and growth-oriented web tools.
 
-### Thinking & knowledge
+### 1. Thinking & knowledge
 
 <table>
   <tr>
@@ -58,7 +68,7 @@ I group them into three buckets: thinking and knowledge work, content and media 
   </tr>
 </table>
 
-### Content & media
+### 2. Content & media
 
 <table>
   <tr>
@@ -103,7 +113,7 @@ I group them into three buckets: thinking and knowledge work, content and media 
   </tr>
 </table>
 
-### Growth & web
+### 3. Growth & web
 
 <table>
   <tr>
@@ -128,7 +138,7 @@ I group them into three buckets: thinking and knowledge work, content and media 
   </tr>
 </table>
 
-## Websites
+## 🌐 Websites
 
 Products and experiments I am building in public.
 
