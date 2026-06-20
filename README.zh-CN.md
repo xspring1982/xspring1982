@@ -24,9 +24,9 @@
 
 ## 🧩 Agent skills
 
-围绕决策、内容生产和增长工作流沉淀的可复用 skills。
+围绕决策、内容生产、本地实用工具和增长工作流沉淀的可复用 skills。
 
-我把它们分成三类：思考与知识工作、内容与媒体生产、增长与网页工具。
+我把它们分成三类：思考与知识工作、内容与媒体生产、实用工具与网页工具。
 
 ### 1. Thinking & knowledge
 
@@ -58,7 +58,9 @@
 
 🎬 [spring-videocut-skills](https://github.com/xspring1982/spring-videocut-skills) - 把口播视频剪辑流程封装成可复用的 agent skills。
 
-### 3. Growth & web
+### 3. Utilities & web
+
+💽 [spring-storage-analyzer](https://github.com/xspring1982/spring-storage-analyzer) - 扫描 Mac / Windows 存储占用，区分可安全清理的缓存和用户数据，并生成带白名单与二次确认的本地清理报告。
 
 🔎 [spring-codex-seo](https://github.com/xspring1982/spring-codex-seo) - 用结构化证据、技术检查、内容诊断和执行计划审计网站。
 

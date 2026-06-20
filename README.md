@@ -24,9 +24,9 @@ Useful tools and updates you can try directly.
 
 ## 🧩 Agent skills
 
-Reusable skills for decision-making, content production, and web growth.
+Reusable skills for decision-making, content production, local utilities, and web growth.
 
-I group them into three buckets: thinking and knowledge work, content and media production, and growth-oriented web tools.
+I group them into three buckets: thinking and knowledge work, content and media production, and practical utility/web tools.
 
 ### 1. Thinking & knowledge
 
@@ -58,7 +58,9 @@ I group them into three buckets: thinking and knowledge work, content and media 
 
 🎬 [spring-videocut-skills](https://github.com/xspring1982/spring-videocut-skills) - Package talking-head video editing workflows into reusable agent skills.
 
-### 3. Growth & web
+### 3. Utilities & web
+
+💽 [spring-storage-analyzer](https://github.com/xspring1982/spring-storage-analyzer) - Analyze Mac/Windows disk usage, separate safe caches from user data, and open a guarded local cleanup report.
 
 🔎 [spring-codex-seo](https://github.com/xspring1982/spring-codex-seo) - Audit websites with structured evidence, technical checks, content findings, and execution plans.
 
