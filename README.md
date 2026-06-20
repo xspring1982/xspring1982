@@ -20,7 +20,6 @@ Useful tools and updates you can try directly.
 
 📰 [spring-newsletter](https://github.com/xspring1982/spring-newsletter) - Get a free daily briefing by email, curated from useful AI, product, and creator signals.
 
-🟢 [spring-wechat-formatter](https://github.com/xspring1982/spring-wechat-formatter) - Paste an article in the browser and turn it into a clean WeChat-ready layout.
 
 ## 🧩 Agent skills
 
