@@ -20,7 +20,6 @@
 
 📰 [spring-newsletter](https://github.com/xspring1982/spring-newsletter) - 通过邮件免费获取每日日报，聚合有价值的 AI、产品和创作者信号。
 
-🟢 [spring-wechat-formatter](https://github.com/xspring1982/spring-wechat-formatter) - 在浏览器中粘贴文章，自动排成适合公众号发布的清爽版式。
 
 ## 🧩 Agent skills
 
