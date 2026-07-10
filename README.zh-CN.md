@@ -20,6 +20,8 @@
 
 📰 [spring-newsletter](https://github.com/xspring1982/spring-newsletter) - 通过邮件免费获取每日日报，聚合有价值的 AI、产品和创作者信号。
 
+🗺️ [mapmc-worlds](https://github.com/xspring1982/mapmc-worlds) - 下载 MapMC 基于真实地图生成的可游玩 Minecraft 世界包。
+
 
 ## 🧩 Agent skills
 
@@ -76,6 +78,8 @@
 🚀 [AppEasy](https://appeasy.studio) - 用 AI 辅助完成小应用的产品设计、页面搭建和上线流程。
 
 🗺️ [MapMC](https://mapmc.app) - 基于真实地图、地点和地理数据生成 Minecraft 世界。
+
+📦 [MapMC Worlds](https://github.com/xspring1982/mapmc-worlds) - MapMC 生成世界包和案例的开源仓库。
 
 💬 [AI Omoggle](https://aiomoggle.com) - 探索 AI 驱动的聊天、匹配和轻量社交实验。
 

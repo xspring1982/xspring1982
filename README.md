@@ -20,6 +20,8 @@ Useful tools and updates you can try directly.
 
 📰 [spring-newsletter](https://github.com/xspring1982/spring-newsletter) - Get a free daily briefing by email, curated from useful AI, product, and creator signals.
 
+🗺️ [mapmc-worlds](https://github.com/xspring1982/mapmc-worlds) - Download playable Minecraft worlds generated from real-world map areas with MapMC.
+
 
 ## 🧩 Agent skills
 
@@ -76,6 +78,8 @@ Products and experiments I am building in public.
 🚀 [AppEasy](https://appeasy.studio) - Build and launch small apps with AI-assisted product, design, and shipping workflows.
 
 🗺️ [MapMC](https://mapmc.app) - Create Minecraft worlds from real maps, places, and geographic data.
+
+📦 [MapMC Worlds](https://github.com/xspring1982/mapmc-worlds) - Open world packages and examples generated with MapMC.
 
 💬 [AI Omoggle](https://aiomoggle.com) - Explore AI-powered chat, matching, and lightweight social experiments.
 
